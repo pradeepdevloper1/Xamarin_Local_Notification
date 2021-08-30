@@ -1,0 +1,14 @@
+C:\XamarinNotification\XamarinNotification\XamarinNotification\bin\Debug\netstandard2.0\XamarinNotification.deps.json
+C:\XamarinNotification\XamarinNotification\XamarinNotification\bin\Debug\netstandard2.0\XamarinNotification.dll
+C:\XamarinNotification\XamarinNotification\XamarinNotification\bin\Debug\netstandard2.0\ref\XamarinNotification.dll
+C:\XamarinNotification\XamarinNotification\XamarinNotification\bin\Debug\netstandard2.0\XamarinNotification.pdb
+C:\XamarinNotification\XamarinNotification\XamarinNotification\obj\Debug\netstandard2.0\XamarinNotification.csproj.AssemblyReference.cache
+C:\XamarinNotification\XamarinNotification\XamarinNotification\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XamarinNotification\XamarinNotification\XamarinNotification\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XamarinNotification\XamarinNotification\XamarinNotification\obj\Debug\netstandard2.0\XamarinNotification.AssemblyInfoInputs.cache
+C:\XamarinNotification\XamarinNotification\XamarinNotification\obj\Debug\netstandard2.0\XamarinNotification.AssemblyInfo.cs
+C:\XamarinNotification\XamarinNotification\XamarinNotification\obj\Debug\netstandard2.0\XamarinNotification.csproj.CoreCompileInputs.cache
+C:\XamarinNotification\XamarinNotification\XamarinNotification\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XamarinNotification\XamarinNotification\XamarinNotification\obj\Debug\netstandard2.0\XamarinNotification.dll
+C:\XamarinNotification\XamarinNotification\XamarinNotification\obj\Debug\netstandard2.0\ref\XamarinNotification.dll
+C:\XamarinNotification\XamarinNotification\XamarinNotification\obj\Debug\netstandard2.0\XamarinNotification.pdb
